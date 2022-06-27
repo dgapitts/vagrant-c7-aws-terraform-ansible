@@ -18,4 +18,5 @@ pip3 install awscli
 /usr/local/bin/aws --version
 
 yum install epel-release -y
+yum install jq -y
 

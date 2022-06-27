@@ -9,7 +9,8 @@ Running terraform with aws provider in a centos7 VM
 
 ### Exercises
 
-* [Demo001 Simple SNS topic setup - using terraform plan and terraform init](docs/Demo001-Simple-SNS-topic-setup.md)
+* [Demo000 download the specfic aws provider - using terraform init](docs/Demo000-Download-AWS-provider.md)
+* [Demo001 Simple SNS topic setup - using terraform plan and terraform apply](docs/Demo001-Simple-SNS-topic-setup.md)
 
 
 

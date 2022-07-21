@@ -11,10 +11,10 @@ terraform version
 yum install python3-pip -y
 pip3 install awscli
 
-# curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
-# unzip awscliv2.zip
-#  ./aws/install
-# aws --version
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+./aws/install
+
 /usr/local/bin/aws --version
 
 yum install epel-release -y
